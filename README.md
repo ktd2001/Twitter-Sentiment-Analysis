@@ -4,4 +4,4 @@ Project analyzed and visualized sentiments of Twitter tweets in real-time. A Pyt
 
 Image: Obama Sentiment Analysis 
 
-<img src="ObamaSentiment.png" width="600" >
+<img src="ObamaSentiment.png" width="700" >
